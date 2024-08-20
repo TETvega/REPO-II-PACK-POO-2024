@@ -1,25 +1,31 @@
+using Microsoft.AspNetCore.Hosting;
+using RepoPOO;
+using RepoPOO.Database;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
+var startup = new Startup(builder.Configuration);
+startup.ConfigureServices(builder.Services);
 var app = builder.Build();
+startup.Configure(app, app.Environment);
+// agregar el using
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+// momento donde estan cargados todos los servicios
+using (var scope = app.Services.CreateScope())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    var services = scope.ServiceProvider;
+    var loggerFactory = services.GetRequiredService<ILoggerFactory>();
+    try
+    {
+        var context = services.GetRequiredService<RepoPOOContext>();
+        await Sedder.LoadDataAsync(context, loggerFactory);
+
+    }
+    catch (Exception e)
+    {
+        var logger = loggerFactory.CreateLogger<Program>();
+        logger.LogError(e, "Error ejecutar Seed de Datos");
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
 
 app.Run();
