@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepoPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b7b22fac57756f73dd77b38b1aae7db9787c95f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6f4f4a7b007ec98839d00575e171179edd6f108")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepoPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepoPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "categoria": "animales",
+    "libro": [ "elefante", "gato", "perro", "serpiente", "pelicano", "tiburon", "lagartija" ]
+  },
+  {
+    "id": 2,
+    "categoria": "alimentos",
+    "libro": [ "manzanas", "peras", "naranjas", "pizza", "hamburguesa", "lasaña", "espagueti" ]
+  },
+  {
+    "id": 3,
+    "categoria": "paises",
+    "libro": [ "honduras", "suecia", "irlanda", "brazil" ]
+  }
+]

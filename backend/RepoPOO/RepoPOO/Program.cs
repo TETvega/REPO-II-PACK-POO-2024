@@ -18,7 +18,7 @@ using (var scope = app.Services.CreateScope())
     try
     {
         var context = services.GetRequiredService<RepoPOOContext>();
-        await Sedder.LoadDataAsync(context, loggerFactory);
+        //await Sedder.LoadDataAsync(context, loggerFactory);
 
     }
     catch (Exception e)

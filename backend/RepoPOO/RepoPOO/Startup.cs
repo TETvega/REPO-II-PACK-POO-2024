@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using RepoPOO.Database;
 using RepoPOO.Helper;
+using RepoPOO.Services;
+using RepoPOO.Services.Interface;
 
 namespace RepoPOO
 {
@@ -32,6 +34,8 @@ namespace RepoPOO
 
             // Add custom services
             //services.AddTransient<IProductService, ProductService>();
+            services.AddTransient<IAhorcado, Ahorcado>();
+
 
 
 
@@ -73,4 +77,4 @@ namespace RepoPOO
         }
     }
 }
-}
+

@@ -1,4 +1,4 @@
-﻿namespace InmobiliariaUNAH.Dtos.common
+﻿namespace RepoPOO.Dto.common
 {
     public class PaginationDto<T>
     {

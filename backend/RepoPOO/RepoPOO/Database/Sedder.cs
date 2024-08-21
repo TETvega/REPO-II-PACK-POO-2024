@@ -4,21 +4,21 @@ namespace RepoPOO.Database
 {
     public class Sedder
     {
-        public static async Task LoadDataAsync(RepoPOOContext context, ILoggerFactory loggerFactory)
-        {
-            try
-            {
-                //await LoadCategoriesProductAsync(loggerFactory, context);
-                //await LoadClientsTypesAsync(loggerFactory, context);
+        //public static async Task LoadDataAsync(RepoPOOContext context, ILoggerFactory loggerFactory)
+        //{
+        //    try
+        //    {
+        //        //await LoadCategoriesProductAsync(loggerFactory, context);
+        //        //await LoadClientsTypesAsync(loggerFactory, context);
 
-            }
-            catch (Exception e)
-            {
-                var logger = loggerFactory.CreateLogger<Sedder>();
-                logger.LogError(e, "Error inicializando la data del API.");
-            }
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        var logger = loggerFactory.CreateLogger<Sedder>();
+        //        logger.LogError(e, "Error inicializando la data del API.");
+        //    }
 
-        }
+        //}
 
         // aqui en adelante son los archivos a cargar
         //seed de los Users

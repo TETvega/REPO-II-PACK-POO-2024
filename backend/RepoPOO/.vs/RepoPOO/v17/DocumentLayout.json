@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\database\\repopoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\database\\repopoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\services\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\services\\ahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\seeddata\\repositorio.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\seeddata\\repositorio.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\dto\\palabradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\dto\\palabradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\dto\\common\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\dto\\common\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\database\\sedder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\database\\sedder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\dto\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\dto\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\controllers\\palabrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\controllers\\palabrascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\database\\repopoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\database\\repopoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\services\\interface\\iahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\services\\interface\\iahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\dto\\common\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\dto\\common\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|d:\\universidad\\repo poo\\backend\\repopoo\\repopoo\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4238F982-31BA-4F93-B9CE-4DE4A0D4F4DB}|RepoPOO\\RepoPOO.csproj|solutionrelative:repopoo\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepoPOOContext.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Database\\RepoPOOContext.cs",
-              "RelativeDocumentMoniker": "RepoPOO\\Database\\RepoPOOContext.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Database\\RepoPOOContext.cs",
-              "RelativeToolTip": "RepoPOO\\Database\\RepoPOOContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T18:59:09.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Program.cs",
-              "RelativeDocumentMoniker": "RepoPOO\\Program.cs",
-              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Program.cs",
-              "RelativeToolTip": "RepoPOO\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T18:52:53.116Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -53,6 +75,184 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "palabrasController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Controllers\\palabrasController.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Controllers\\palabrasController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Controllers\\palabrasController.cs",
+              "RelativeToolTip": "RepoPOO\\Controllers\\palabrasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:07:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "repositorio.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\SeedData\\repositorio.json",
+              "RelativeDocumentMoniker": "RepoPOO\\SeedData\\repositorio.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\SeedData\\repositorio.json",
+              "RelativeToolTip": "RepoPOO\\SeedData\\repositorio.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T00:00:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\common\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Dto\\common\\ResponseDto.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\common\\ResponseDto.cs",
+              "RelativeToolTip": "RepoPOO\\Dto\\common\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:33:53.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Program.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Program.cs",
+              "RelativeToolTip": "RepoPOO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:52:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sedder.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Database\\Sedder.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Database\\Sedder.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Database\\Sedder.cs",
+              "RelativeToolTip": "RepoPOO\\Database\\Sedder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:31:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\common\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Dto\\common\\PaginationDto.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\common\\PaginationDto.cs",
+              "RelativeToolTip": "RepoPOO\\Dto\\common\\PaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:33:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Startup.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Startup.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Startup.cs",
+              "RelativeToolTip": "RepoPOO\\Startup.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAtwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:24:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "palabraDTO.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\palabraDTO.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Dto\\palabraDTO.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\palabraDTO.cs",
+              "RelativeToolTip": "RepoPOO\\Dto\\palabraDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:24:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ahorcado.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Services\\Ahorcado.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Services\\Ahorcado.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Services\\Ahorcado.cs",
+              "RelativeToolTip": "RepoPOO\\Services\\Ahorcado.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:10:12.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAhorcado.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Services\\Interface\\IAhorcado.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Services\\Interface\\IAhorcado.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Services\\Interface\\IAhorcado.cs",
+              "RelativeToolTip": "RepoPOO\\Services\\Interface\\IAhorcado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:09:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RepoPOO\\appsettings.Development.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\appsettings.Development.json",
+              "RelativeToolTip": "RepoPOO\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T23:30:01.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepoPOOContext.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Database\\RepoPOOContext.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Database\\RepoPOOContext.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Database\\RepoPOOContext.cs",
+              "RelativeToolTip": "RepoPOO\\Database\\RepoPOOContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:09:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "a.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\common\\a.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Dto\\common\\a.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Dto\\common\\a.cs",
+              "RelativeToolTip": "RepoPOO\\Dto\\common\\a.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:33:41.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutomapperProfile.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Helper\\AutomapperProfile.cs",
+              "RelativeDocumentMoniker": "RepoPOO\\Helper\\AutomapperProfile.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\REPO POO\\backend\\RepoPOO\\RepoPOO\\Helper\\AutomapperProfile.cs",
+              "RelativeToolTip": "RepoPOO\\Helper\\AutomapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:28:32.356Z"
             }
           ]
         },
